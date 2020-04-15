@@ -1,0 +1,2 @@
+/home/richinme/go/src/grandsmeta/users/user2/
+/home/richinme/go/src/grandsmeta/users/user1/
